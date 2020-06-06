@@ -70,17 +70,19 @@ main {
 @media screen and (max-width:768px) {
   .box {
     float: none;
-    width: 90%;
+    width: 100%;
     margin-bottom: 20px;
   }
 
   .box3 {
     float: none;
-    width: 90%;
+    width: 100%;
+    margin-right: 0px;
   }
 
 
   main {
-    width: 330px;
+
+    width: 90%;
   }
 }
